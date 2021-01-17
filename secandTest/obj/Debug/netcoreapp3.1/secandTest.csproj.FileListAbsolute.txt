@@ -1,0 +1,26 @@
+C:\Users\burak\source\repos\secandTest\secandTest\bin\Debug\netcoreapp3.1\secandTest.exe
+C:\Users\burak\source\repos\secandTest\secandTest\bin\Debug\netcoreapp3.1\secandTest.deps.json
+C:\Users\burak\source\repos\secandTest\secandTest\bin\Debug\netcoreapp3.1\secandTest.runtimeconfig.json
+C:\Users\burak\source\repos\secandTest\secandTest\bin\Debug\netcoreapp3.1\secandTest.runtimeconfig.dev.json
+C:\Users\burak\source\repos\secandTest\secandTest\bin\Debug\netcoreapp3.1\secandTest.dll
+C:\Users\burak\source\repos\secandTest\secandTest\bin\Debug\netcoreapp3.1\secandTest.pdb
+C:\Users\burak\source\repos\secandTest\secandTest\obj\Debug\netcoreapp3.1\secandTest.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\secandTest\secandTest\obj\Debug\netcoreapp3.1\secandTest.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\secandTest\secandTest\obj\Debug\netcoreapp3.1\secandTest.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\secandTest\secandTest\obj\Debug\netcoreapp3.1\secandTest.AssemblyInfo.cs
+C:\Users\burak\source\repos\secandTest\secandTest\obj\Debug\netcoreapp3.1\secandTest.dll
+C:\Users\burak\source\repos\secandTest\secandTest\obj\Debug\netcoreapp3.1\secandTest.pdb
+C:\Users\burak\source\repos\secandTest\secandTest\obj\Debug\netcoreapp3.1\secandTest.genruntimeconfig.cache
+C:\Users\burak\Desktop\Sayısal Analiz Ödev\c#\Secand Yöntemi\secandTest\bin\Debug\netcoreapp3.1\secandTest.exe
+C:\Users\burak\Desktop\Sayısal Analiz Ödev\c#\Secand Yöntemi\secandTest\bin\Debug\netcoreapp3.1\secandTest.deps.json
+C:\Users\burak\Desktop\Sayısal Analiz Ödev\c#\Secand Yöntemi\secandTest\bin\Debug\netcoreapp3.1\secandTest.runtimeconfig.json
+C:\Users\burak\Desktop\Sayısal Analiz Ödev\c#\Secand Yöntemi\secandTest\bin\Debug\netcoreapp3.1\secandTest.runtimeconfig.dev.json
+C:\Users\burak\Desktop\Sayısal Analiz Ödev\c#\Secand Yöntemi\secandTest\bin\Debug\netcoreapp3.1\secandTest.dll
+C:\Users\burak\Desktop\Sayısal Analiz Ödev\c#\Secand Yöntemi\secandTest\bin\Debug\netcoreapp3.1\secandTest.pdb
+C:\Users\burak\Desktop\Sayısal Analiz Ödev\c#\Secand Yöntemi\secandTest\obj\Debug\netcoreapp3.1\secandTest.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\Sayısal Analiz Ödev\c#\Secand Yöntemi\secandTest\obj\Debug\netcoreapp3.1\secandTest.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Sayısal Analiz Ödev\c#\Secand Yöntemi\secandTest\obj\Debug\netcoreapp3.1\secandTest.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\Sayısal Analiz Ödev\c#\Secand Yöntemi\secandTest\obj\Debug\netcoreapp3.1\secandTest.AssemblyInfo.cs
+C:\Users\burak\Desktop\Sayısal Analiz Ödev\c#\Secand Yöntemi\secandTest\obj\Debug\netcoreapp3.1\secandTest.dll
+C:\Users\burak\Desktop\Sayısal Analiz Ödev\c#\Secand Yöntemi\secandTest\obj\Debug\netcoreapp3.1\secandTest.pdb
+C:\Users\burak\Desktop\Sayısal Analiz Ödev\c#\Secand Yöntemi\secandTest\obj\Debug\netcoreapp3.1\secandTest.genruntimeconfig.cache
